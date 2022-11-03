@@ -20,7 +20,7 @@ namespace eTickets.Models
         [Display(Name = "Biography")]
         public string Bio { get; set; }
 
-        //Relations.
+        //Relations..
         public List<Actor_Movie> Actors_Movies { get; set; }
 
     }
