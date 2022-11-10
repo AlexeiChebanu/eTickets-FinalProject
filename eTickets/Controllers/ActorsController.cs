@@ -22,5 +22,10 @@ namespace eTickets.Controllers
             var data = await _services.GetAll();
             return View(data);
         }
+        //Get req actros/create
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
