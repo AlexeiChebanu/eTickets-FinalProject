@@ -45,9 +45,12 @@
 </div>
 
 @section Scripts {
-    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
     <script>
+
+        $(document).ready(function ()){
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#ProfilePictureURL").val();
+        }
         $("#ProfilePictureURL").on("change", function () {
             var output = document.getElementById('ProfilePicturePreview');
             output.src = $(this).val();
