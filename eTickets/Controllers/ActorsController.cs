@@ -40,6 +40,7 @@ namespace eTickets.Controllers
             await _services.AddAsync(actor);
             return RedirectToAction(nameof(Index));                              
         }
+
         //Get: Actrors/Details/id
         public async Task<IActionResult> Details(int id)
         {
