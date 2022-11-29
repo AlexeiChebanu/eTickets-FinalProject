@@ -34,6 +34,7 @@ namespace eTickets
             //Services config
             services.AddScoped<IActorService, ActorsService>();
             services.AddScoped<IProducersService, ProducersService>();
+            services.AddScoped<ICinemasService, CinemasService>();
 
 
             services.AddControllersWithViews();
