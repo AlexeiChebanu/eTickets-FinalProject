@@ -142,7 +142,7 @@ namespace eTickets.Data
                         {
                             Name = "14 PEAKS: NOTHING IS IMPOSSIBLE",
                             Description = "14 PEAKS: NOTHING IS IMPOSSIBLE movie",
-                            Price = 39.50,
+                            Price = 39.00,
                             ImageURL = "https://resizing.flixster.com/nI4bd7d8wOftYgh7qiVUwmd0kGM=/206x305/v2/https://resizing.flixster.com/pcnei1ZnVpDlvCh4U6CnyVkjLho=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhMDkzNjU5LTAyZjYtNDMzNS05ODlmLWFhMTJkZjMxMTQyMy5qcGc=",
                             StartDate = DateTime.Now.AddDays(-10),
                             EndDate = DateTime.Now.AddDays(10),
@@ -154,7 +154,7 @@ namespace eTickets.Data
                         {
                             Name = "Top Gun: Maverick",
                             Description = "The Top Gun: Maverick movie",
-                            Price = 29.50,
+                            Price = 29.00,
                             ImageURL = "https://resizing.flixster.com/UuyjwlbRE17UP6ot-ehuA_UXdrw=/206x305/v2/https://resizing.flixster.com/TIM4kfHTVZrfpF0tYt9LIU69A5s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1OWIwMWQwLWYyZDItNDk4Yi04MDIxLWI3OTJlNDI1NjA3NS5qcGc=",
                             StartDate = DateTime.Now,
                             EndDate = DateTime.Now.AddDays(3),
@@ -166,7 +166,7 @@ namespace eTickets.Data
                         {
                             Name = "Barbarian",
                             Description = "This is the Barbarian movie",
-                            Price = 39.50,
+                            Price = 39.00,
                             ImageURL = "https://resizing.flixster.com/6eT6yv_PEO3CJC1CrOCx9bxf3UA=/206x305/v2/https://resizing.flixster.com/Ym6ucXdlZjGTqRWEMVr0r3H16Ro=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZGY2MjgxLTI1NjEtNGFhMC1iYzQ0LTllOGFhYTczNzYxNy5qcGc=",
                             StartDate = DateTime.Now,
                             EndDate = DateTime.Now.AddDays(7),
@@ -178,7 +178,7 @@ namespace eTickets.Data
                         {
                             Name = "Black Widow",
                             Description = "This is the Black Widow movie",
-                            Price = 39.50,
+                            Price = 39.00,
                             ImageURL = "https://resizing.flixster.com/EyahmtqNmxs6zwn-bK1q9fmfiyA=/206x305/v2/https://resizing.flixster.com/UqanC4hHIFolYIKoZ020-YmubCQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkMWJjZjI2LWE0MDktNDczZC05ZmNiLTIzMTQ0NTE5MGJiMC5qcGc=",
                             StartDate = DateTime.Now.AddDays(-10),
                             EndDate = DateTime.Now.AddDays(-5),
@@ -190,7 +190,7 @@ namespace eTickets.Data
                         {
                             Name = "Minions: The Rise of Gru",
                             Description = "The Minions: The Rise of Gru movie",
-                            Price = 39.50,
+                            Price = 39.00,
                             ImageURL = "https://resizing.flixster.com/5M85GItiHLI3ZvsJjlXAOWAlzMs=/206x305/v2/https://resizing.flixster.com/s2eQM6eCyFOAYE_jOckLuj7op84=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBkOGQzNDU5LWQ0YjgtNDczNi1hNmE1LWI1ZWFjY2QxZTNlYS5qcGc=",
                             StartDate = DateTime.Now.AddDays(-10),
                             EndDate = DateTime.Now.AddDays(-2),
@@ -202,7 +202,7 @@ namespace eTickets.Data
                         {
                             Name = "All Quiet on the Western Front",
                             Description = "The All Quiet on the Western Front movie",
-                            Price = 39.50,
+                            Price = 39.00,
                             ImageURL = "https://resizing.flixster.com/r8C2ibQO8krwKNCi3v1nV2SWX3A=/206x305/v2/https://resizing.flixster.com/Tv-nj_XzcvU5GZthFm-0xrSvvjo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljM2U3Mjk3LWExNzgtNGE2NS05OTMxLWVlZmU1NzNlZWM5MS5qcGc=",
                             StartDate = DateTime.Now.AddDays(3),
                             EndDate = DateTime.Now.AddDays(20),
