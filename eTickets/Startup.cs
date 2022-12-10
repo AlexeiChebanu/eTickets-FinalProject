@@ -79,7 +79,7 @@ namespace eTickets
             app.UseSession();
 
             app.UseAuthentication();
-            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseAuthorization();
 

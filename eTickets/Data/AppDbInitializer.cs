@@ -360,7 +360,7 @@ namespace eTickets.Data
                 string appUserEmail = "user@gmail.com";
 
                 var appUser = await userManager.FindByEmailAsync(appUserEmail);
-                if (adminUser == null)
+                if (appUser == null)
                 {
                     var newAppUser = new ApplicationUser()
                     {
